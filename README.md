@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Front End Development at Medieinstitutet.
+- 🤔 I’m looking for help with everything front end related!!! 
+- - ⚡ Fun fact: My first webpage was about :pizza:
 
 <!--
 **AndreNarvell/AndreNarvell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
