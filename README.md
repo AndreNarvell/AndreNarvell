@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Front End Development at Medieinstitutet.
 - 🤔 I’m looking for help with everything front end related!!! 
 - ⚡ Fun fact: My first webpage was about :pizza:
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!--
