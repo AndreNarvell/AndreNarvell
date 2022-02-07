@@ -6,7 +6,17 @@
 - ⚡ Fun fact: My first webpage was about :pizza:
 
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreNarvell&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNarvell&layout=compact)](https://github.com/AndreNarvell/github-readme-stats)
+## 📈 Stats & Skills:
+
+<a href="https://github.com/AndreNarvell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNarvell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/AndreNarvell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreNarvell&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FF4797&bg_color=1d1f21" alt="André Narvell's GitHub Stats" />
+</a>
+
+<br>
+<br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572B6)
