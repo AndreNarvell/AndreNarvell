@@ -1,5 +1,10 @@
 ![Alt text](hellogit.gif)
 
+<img src="https://github.com/AndreNarvell/AndreNarvell/blob/main/hellogit.gif"/>
+
+
+
+
 ### Hi there 👋
 - 🌱 I’m currently learning Front End Development at Medieinstitutet.
 - 🤔 I’m looking for help with everything front end related!!! 
