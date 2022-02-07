@@ -1,4 +1,4 @@
-![](Hnet.com-image (1).gif)
+
 
 ### Hi there 👋
 - 🌱 I’m currently learning Front End Development at Medieinstitutet.
