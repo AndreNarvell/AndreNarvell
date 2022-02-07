@@ -10,11 +10,11 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-1d1f21?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=for-the-badge&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-1d1f21?style=for-the-badge&logo=angular)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=for-the-badge&logo=figma)
-![SASS](https://img.shields.io/badge/-SASS-1d1f21?style=for-the-badge&logo=sass)
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=for-the-badge&logo=adobephotoshop)
 ![Adobe_Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=for-the-badge&logo=adobeillustrator)
 ![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-1d1f21?style=for-the-badge&logo=adobepremierepro)
