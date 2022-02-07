@@ -1,4 +1,4 @@
-<span>___</span><img align="center" src="https://github.com/AndreNarvell/AndreNarvell/blob/main/hellogit.gif"/>
+<span>                </span><img align="center" src="https://github.com/AndreNarvell/AndreNarvell/blob/main/hellogit.gif"/>
 
 
 
