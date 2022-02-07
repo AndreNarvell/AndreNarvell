@@ -1,4 +1,4 @@
-![Alt text](hello.gif)
+![Alt text](hellogit.gif)
 
 ### Hi there 👋
 - 🌱 I’m currently learning Front End Development at Medieinstitutet.
