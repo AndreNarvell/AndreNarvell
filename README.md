@@ -15,7 +15,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=for-the-badge&logo=figma)
-![SCSS](https://img.shields.io/badge/-SCSS-1d1f21?style=for-the-badge&logo=scss)
+![SASS](https://img.shields.io/badge/-SASS-1d1f21?style=for-the-badge&logo=sass)
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=for-the-badge&logo=adobephotoshop)
 ![Adobe_Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=for-the-badge&logo=adobeillustrator)
 ![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-1d1f21?style=for-the-badge&logo=adobepremierepro)
