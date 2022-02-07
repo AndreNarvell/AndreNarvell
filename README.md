@@ -6,9 +6,9 @@
 - ⚡ Fun fact: My first webpage was about :pizza:
 
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreNarvell&show_icons=true&theme=radical)
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreNarvell&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNarvell&layout=compact)](https://github.com/AndreNarvell/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNarvell&layout=compact)](https://github.com/AndreNarvell/github-readme-stats)
+
 
 
 <!--
