@@ -1,6 +1,4 @@
-![Alt text](hellogit.gif)
-
-<img src="https://github.com/AndreNarvell/AndreNarvell/blob/main/hellogit.gif"/>
+<img align="center" src="https://github.com/AndreNarvell/AndreNarvell/blob/main/hellogit.gif"/>
 
 
 
