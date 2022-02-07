@@ -3,7 +3,7 @@
 
 
 
-### Hi there 👋
+## Hi there 👋
 - 🌱 I’m currently learning Front End Development at Medieinstitutet.
 - 🤔 I’m looking for help with everything front end related!!! 
 - ⚡ Fun fact: My first webpage was about :pizza:
