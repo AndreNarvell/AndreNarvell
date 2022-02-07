@@ -1,4 +1,4 @@
-![Alt text](hello.gif) / ![](hello.gif)
+![Alt text](hello.gif)
 
 ### Hi there 👋
 - 🌱 I’m currently learning Front End Development at Medieinstitutet.
