@@ -26,6 +26,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-1d1f21?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=for-the-badge&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-1d1f21?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/-React-1d1f21?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-1d1f21?style=for-the-badge&logo=typescript)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=for-the-badge&logo=figma)
